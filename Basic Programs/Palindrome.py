@@ -1,11 +1,15 @@
-# num = input("Enter a number to check palindrome: ")
-# reversed_number = num[::-1]
-# if num == reversed_number:
-#     print(f"{num} is palindrome number")
-# else :
-#     print(f"{num} is not palindrome number")
+#Approach 1: Using String Slicing
+
+num = input("Enter a number to check palindrome: ")
+reversed_number = num[::-1]
+if num == reversed_number:
+    print(f"{num} is palindrome number")
+else :
+    print(f"{num} is not palindrome number")
     
     
+#Approach 2: Using Loop
+
 num = int(input("Enter a Number: "))
 
 original_num = num
