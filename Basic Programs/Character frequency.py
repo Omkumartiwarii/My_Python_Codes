@@ -5,3 +5,7 @@ for i in char:
         char_freq[i] += 1
     else:
         char_freq[i] = 1
+        
+print("Character Frequency:")
+for key, value in char_freq.items():
+    print(f"{key}: {value}")
