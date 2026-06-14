@@ -29,3 +29,7 @@ word = input("Enter a string : ")
 print("".join(set(word)))
 
 
+#Approach 4: dict.fromkeys() One-Liner
+word = input("Enter a string : ")
+
+print("".join(dict.fromkeys(word)))
