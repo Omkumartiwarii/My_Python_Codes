@@ -24,3 +24,8 @@ for ch in word:
 print("".join(char_freq.keys()))
 
 
+#Approach 3: Using Set
+word = input("Enter a string : ")
+print("".join(set(word)))
+
+
