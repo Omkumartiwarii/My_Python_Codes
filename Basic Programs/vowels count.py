@@ -1,4 +1,4 @@
-#Vowels count in String
+#Approach 1: Vowels count in String
 string = input("Enter a string: ")
 vowels = "aeiouAEIOU"
 count = 0
