@@ -1,0 +1,165 @@
+Beginner Level
+
+    Hello World print karo.
+    User se naam input lekar welcome message print karo.
+    Do numbers ka sum, difference, multiplication aur division nikalo.
+    Check karo number even hai ya odd.
+    Check karo number positive, negative ya zero hai.
+    Sabse bada number find karo (3 numbers me).
+    Leap year check karo.
+    Multiplication table print karo.
+    Factorial nikalo.
+    Fibonacci series print karo.
+
+
+String Questions
+
+    String reverse karo.
+    Palindrome check karo.
+    String me vowels count karo.
+    Character frequency count karo.
+    Word count nikalo.
+    String ko uppercase aur lowercase me convert karo.
+    First non-repeating character find karo.
+    Anagram check karo.
+    Duplicate characters remove karo.
+    Longest word find karo sentence me.
+
+
+List Questions
+
+    List ka largest element find karo.
+    List ka smallest element find karo.
+    Duplicate elements remove karo.
+    Second largest element find karo.
+    List reverse karo.
+    Two lists merge karo.
+    Common elements find karo.
+    List sort karo without sort().
+    List rotate karo.
+    Missing number find karo.
+
+
+Dictionary Questions
+
+    Character frequency dictionary banao.
+    Student marks dictionary me highest marks wala student find karo.
+    Two dictionaries merge karo.
+    Key exist karti hai ya nahi check karo.
+    Dictionary ko value ke basis par sort karo.
+
+
+Functions Questions
+
+    Prime number check function banao.
+    Armstrong number check function banao.
+    GCD find karne ka function banao.
+    LCM find karne ka function banao.
+    Recursive factorial function likho.
+
+
+File Handling Questions
+
+    Text file create karke data write karo.
+    File read karo.
+    Number of lines count karo.
+    Number of words count karo.
+    Number of characters count karo.
+    Specific word search karo file me.
+    CSV file read karo.
+    File copy program banao.
+
+
+OOP Questions
+
+    Student class banao.
+    Constructor use karo.
+    Inheritance ka example banao.
+    Multiple inheritance implement karo.
+    Method overriding ka example.
+    Encapsulation implement karo.
+    Polymorphism ka example.
+    Bank Account class banao (Deposit, Withdraw, Balance).
+
+
+Exception Handling
+
+    ZeroDivisionError handle karo.
+    FileNotFoundError handle karo.
+    Multiple exceptions handle karo.
+    Custom exception banao.
+
+
+SQL + Python
+
+    Python se PostgreSQL connect karo.
+    Employee table me data insert karo.
+    Data fetch karo.
+    Update operation karo.
+    Delete operation karo.
+
+
+Django/Backend Interview Level
+
+    REST API se data fetch karo using requests.
+    JSON file read/write karo.
+    CRUD operation ka mini project banao.
+    Login system banao.
+    URL Shortener banao.
+
+
+Data Structures & Logic
+
+    Binary Search implement karo.
+    Linear Search implement karo.
+    Bubble Sort implement karo.
+    Selection Sort implement karo.
+    Insertion Sort implement karo.
+    Stack using List.
+    Queue using List.
+    Balanced Parentheses check karo.
+    Count occurrence of each element.
+    Find pair whose sum equals target.
+
+
+AI/ML Preparation Python Questions
+
+    NumPy array create karo.
+    Pandas DataFrame create karo.
+    CSV dataset load karo.
+    Missing values handle karo.
+    Mean, Median, Mode find karo.
+    Data visualization using Matplotlib.
+    Train-Test Split karo.
+    Linear Regression implement karo.
+    Accuracy score calculate karo.
+    Simple chatbot banao.
+
+
+Coding Interview Level
+
+    Two Sum Problem
+    Longest Substring Without Repeating Characters
+    Valid Parentheses
+    Merge Two Sorted Lists
+    Maximum Subarray Sum
+    Best Time to Buy and Sell Stock
+    Move Zeroes
+    Find Duplicate Number
+    Rotate Array
+    Kth Largest Element
+
+
+Revision Challenge
+
+In 100 questions me se agar tum:
+
+        ->  1–40 solve kar lete ho → Python Basic Strong
+        ->  41–70 solve kar lete ho → Python Developer Ready
+        ->  71–100 solve kar lete ho → Interview Ready
+        ->  1–100 solve kar lete ho → Python + Backend + AI Foundation Strong
+
+
+Interview me sabse zyada pooche jaane wale questions:
+
+    4, 8, 9, 11, 12, 17, 21, 24, 31, 36, 38, 49, 51, 53, 57, 66, 71, 73, 76, 91, 93, 95.
